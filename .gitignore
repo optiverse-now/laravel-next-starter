@@ -2,3 +2,6 @@
 /ui_ux_sample_cord
 .cursorrules
 /prompt
+node_modules
+.env
+.env.local
